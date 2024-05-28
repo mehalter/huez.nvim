@@ -24,6 +24,10 @@ R = {
     url = "https://github.com/jim-at-jibba/ariake.nvim",
     pkgname = "ariake",
   },
+  ["astrotheme"] = {
+    url = "https://github.com/AstroNvim/astrotheme",
+    pkgname = "astrotheme",
+  },
   ["aurora"] = {
     url = "https://github.com/ray-x/aurora",
     pkgname = "aurora",
